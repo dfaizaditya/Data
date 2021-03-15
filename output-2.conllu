@@ -1,0 +1,301 @@
+# sent_id = 1
+# text = Afghanistan, Pakistan dan Pasukan Bantuan Keamanan Internasional (ISAF) pimpinan NATO hari Kamis membuka sebuah pusat pertukaran intelijen gabungan di Kabul untuk mengkoordinasi perang melawan gerilyawan yang dipimpin Taliban. "Sebuah hari bersejarah bagi Operasi Kebebasan Abadi -- operasi AS melawan teror dan gerilyawan," kata panglima ISAF Jendral David Richards kepada wartawan pada acara pembukaan itu. Pembukaan itu dilakukan di tengah tuduhan-tuduhan oleh para pejabat Afghanistan bahwa sejumlah unsur di dalam Badan Intelijen Pakistan (ISI) membantu dan melatih gerilyawan Taliban yang menyeberangi perbatasan untuk menyerang pasukan Afghanistan dan prajurit internasional. Pada 2006, Afghanistan mengalami tahun terburuknya sejak invasi koalisi pimpinan AS menggulingkan rezim Taliban pada akhir 2001. Pertumpahan darah terutama terjadi di daerah-daerah yang berbatasan dengan Pakistan. Dengan memuji peranan militer Pakistan dalam pembagian informasi mengenai gerilyawan, Richards mengatakan bahwa alasan Taliban jatuh pada 2006 adalah kerja sama erat antara pasukan-pasukan militer dan kepolisian di kedua sisi perbatasan. "Ada banyak kerja sama setiap hari," kata Richards. Namun, pusat intelijen itu akan memungkinkan para aparat Afghanistan, Pakistan dan ISAF bekerja bersama-sama secara lebih efisien. Pusat intelijen gabungan itu akan mengerjakan masalah-masalah operasi, intelijen dan teknis, dan berbagi informasi mengenai daerah perbatasan Afghanistan-Pakistan. Kantor itu melibatkan enam perwira penghubung masing-masing dari Pakistan dan Afghanistan serta 12 anggota ISAF. Richards juga mengumumkan penempatan sebuah brigade baru pasukan tempur dari negara-negara ISAF dalam waktu dekat, namun ia tidak menjelaskan secara terinci jumlah pasti pasukan itu atau negara asal mereka. Sekitar 33.000 prajurit dari 37 negara ISAF saat ini ditempatkan di Afghanistan, sementara 8.000 prajurit lain AS bertugas secara independen untuk memburu sisa-sisa Taliban dan gerilyawan Al-Qaeda sekutu mereka dalam perang melawan teror.
+1	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	Pakistan	Pakistan	PROPN	_	_	_	_	_	_
+4	dan	dan	CCONJ	_	_	_	_	_	_
+5	Pasukan	Pasukan	PROPN	_	_	_	_	_	_
+6	Bantuan	Bantuan	PROPN	_	_	_	_	_	_
+7	Keamanan	Keamanan	PROPN	_	_	_	_	_	_
+8	Internasional	Internasional	PROPN	_	_	_	_	_	_
+9	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	ISAF	ISAF	PROPN	_	_	_	_	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	_	_	_	_
+12	pimpinan	pimpin	NOUN	_	Number=Sing	_	_	_	_
+13	NATO	NATO	PROPN	_	_	_	_	_	_
+14	hari	hari	NOUN	_	Number=Sing	_	_	_	_
+15	Kamis	Kamis	PROPN	_	_	_	_	_	_
+16	membuka	buka	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+17	sebuah	buah	DET	_	Number=Sing|PronType=Ind	_	_	_	_
+18	pusat	pusat/pusat	ADJ/NOUN	_	(ADJ -> Degree=Pos)/(NOUN -> Number=Sing)	_	_	_	_
+19	pertukaran	tukar	NOUN	_	Number=Sing	_	_	_	_
+20	intelijen	intelijen	NOUN	_	Number=Sing	_	_	_	_
+21	gabungan	gabung	NOUN	_	Number=Sing	_	_	_	_
+22	di	di	ADP	_	_	_	_	_	_
+23	Kabul	Kabul	PROPN	_	_	_	_	_	_
+24	untuk	untuk/untuk	SCONJ/ADP	_	_	_	_	_	_
+25	mengkoordinasi	mengkoordinasi	X	_	Foreign=Yes	_	_	_	_
+26	perang	perang	NOUN	_	Number=Sing	_	_	_	_
+27	melawan	lawan	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+28	gerilyawan	gerilyawan	NOUN	_	Number=Sing	_	_	_	_
+29	yang	yang/yang	PRON/SCONJ	_	(PRON -> PronType=Rel)	_	_	_	_
+30	dipimpin	pimpin	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+31	Taliban	Taliban	PROPN	_	_	_	_	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	_
+33	"	"	PUNCT	_	_	_	_	_	SpaceAfter=No
+34	Sebuah	Sebuah	PROPN	_	_	_	_	_	_
+35	hari	hari	NOUN	_	Number=Sing	_	_	_	_
+36	bersejarah	sejarah	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+37	bagi	bagi/bagi	VERB/ADP	_	_	_	_	_	_
+38	Operasi	Operasi	PROPN	_	_	_	_	_	_
+39	Kebebasan	Kebebasan	PROPN	_	_	_	_	_	_
+40	Abadi	Abadi	PROPN	_	_	_	_	_	_
+41	--	--	PUNCT	_	_	_	_	_	_
+42	operasi	operasi	NOUN	_	Number=Sing	_	_	_	_
+43	AS	AS	PROPN	_	_	_	_	_	_
+44	melawan	lawan	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+45	teror	teror	NOUN	_	Number=Sing	_	_	_	_
+46	dan	dan	CCONJ	_	_	_	_	_	_
+47	gerilyawan	gerilyawan	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	_	_	_	SpaceAfter=No
+49	"	"	PUNCT	_	_	_	_	_	_
+50	kata	kata	NOUN	_	Number=Sing	_	_	_	_
+51	panglima	panglima	NOUN	_	Number=Sing	_	_	_	_
+52	ISAF	ISAF	PROPN	_	_	_	_	_	_
+53	Jendral	Jendral	PROPN	_	_	_	_	_	_
+54	David	David	PROPN	_	_	_	_	_	_
+55	Richards	Richards	PROPN	_	_	_	_	_	_
+56	kepada	kepada	ADP	_	_	_	_	_	_
+57	wartawan	wartawan	NOUN	_	Number=Sing	_	_	_	_
+58	pada	pada	ADP	_	_	_	_	_	_
+59	acara	acara	NOUN	_	Number=Sing	_	_	_	_
+60	pembukaan	buka	NOUN	_	Number=Sing	_	_	_	_
+61	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	SpaceAfter=No
+62	.	.	PUNCT	_	_	_	_	_	_
+63	Pembukaan	Pembukaan	PROPN	_	_	_	_	_	_
+64	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+65	dilakukan	laku	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+66	di	di	ADP	_	_	_	_	_	_
+67	tengah	tengah	NOUN	_	Number=Sing	_	_	_	_
+68	tuduhan-tuduhan	tuduh	NOUN	_	Number=Plur	_	_	_	_
+69	oleh	oleh	ADP	_	_	_	_	_	_
+70	para	para	DET	_	_	_	_	_	_
+71	pejabat	jabat	NOUN	_	Number=Sing	_	_	_	_
+72	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	_
+73	bahwa	bahwa	SCONJ	_	_	_	_	_	_
+74	sejumlah	jumlah	DET	_	_	_	_	_	_
+75	unsur	unsur	NOUN	_	Number=Sing	_	_	_	_
+76	di	di	ADP	_	_	_	_	_	_
+77	dalam	dalam/dalam/dalam	NOUN/ADJ/ADP	_	(NOUN -> Number=Sing)/(ADJ -> Degree=Pos)	_	_	_	_
+78	Badan	Badan	PROPN	_	_	_	_	_	_
+79	Intelijen	Intelijen	PROPN	_	_	_	_	_	_
+80	Pakistan	Pakistan	PROPN	_	_	_	_	_	_
+81	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+82	ISI	ISI	PROPN	_	_	_	_	_	SpaceAfter=No
+83	)	)	PUNCT	_	_	_	_	_	_
+84	membantu	bantu	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+85	dan	dan	CCONJ	_	_	_	_	_	_
+86	melatih	latih	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+87	gerilyawan	gerilyawan	NOUN	_	Number=Sing	_	_	_	_
+88	Taliban	Taliban	PROPN	_	_	_	_	_	_
+89	yang	yang/yang	PRON/SCONJ	_	(PRON -> PronType=Rel)	_	_	_	_
+90	menyeberangi	seberang	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+91	perbatasan	batas	NOUN	_	Number=Sing	_	_	_	_
+92	untuk	untuk/untuk	SCONJ/ADP	_	_	_	_	_	_
+93	menyerang	serang	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+94	pasukan	pasuk	NOUN	_	Number=Sing	_	_	_	_
+95	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	_
+96	dan	dan	CCONJ	_	_	_	_	_	_
+97	prajurit	prajurit	NOUN	_	Number=Sing	_	_	_	_
+98	internasional	internasional	ADJ	_	Degree=Pos	_	_	_	SpaceAfter=No
+99	.	.	PUNCT	_	_	_	_	_	_
+100	Pada	Pada	PROPN	_	_	_	_	_	_
+101	2006	2006	NUM	_	_	_	_	_	SpaceAfter=No
+102	,	,	PUNCT	_	_	_	_	_	_
+103	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	_
+104	mengalami	alami/kalam/alami/alam	VERB/VERB/VERB/VERB	_	(VERB -> Subcat=Tran|Voice=Act)/(VERB -> Subcat=Tran|Voice=Act)/(VERB -> Subcat=Intr)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	_
+105	tahun	tahun	NOUN	_	Number=Sing	_	_	_	_
+106-107	terburuknya	_	_	_	_	_	_	_	_
+106	terburuk	buruk	ADJ	_	Degree=Sup	_	_	_	_
+107	nya	nya	DET	_	_	_	_	_	_
+108	sejak	sejak	SCONJ	_	_	_	_	_	_
+109	invasi	invasi	NOUN	_	Number=Sing	_	_	_	_
+110	koalisi	koalisi	NOUN	_	Number=Sing	_	_	_	_
+111	pimpinan	pimpin	NOUN	_	Number=Sing	_	_	_	_
+112	AS	AS	PROPN	_	_	_	_	_	_
+113	menggulingkan	guling	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+114	rezim	rezim	NOUN	_	Number=Sing	_	_	_	_
+115	Taliban	Taliban	PROPN	_	_	_	_	_	_
+116	pada	pada	ADP	_	_	_	_	_	_
+117	akhir	akhir	NOUN	_	Number=Sing	_	_	_	_
+118	2001	2001	NUM	_	_	_	_	_	SpaceAfter=No
+119	.	.	PUNCT	_	_	_	_	_	_
+120	Pertumpahan	Pertumpahan	PROPN	_	_	_	_	_	_
+121	darah	darah	NOUN	_	Number=Sing	_	_	_	_
+122	terutama	utama	ADJ	_	Degree=Sup	_	_	_	_
+123	terjadi	jadi	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+124	di	di	ADP	_	_	_	_	_	_
+125	daerah-daerah	daerah	NOUN	_	Number=Plur	_	_	_	_
+126	yang	yang/yang	PRON/SCONJ	_	(PRON -> PronType=Rel)	_	_	_	_
+127	berbatasan	batas	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+128	dengan	dengan	ADP	_	_	_	_	_	_
+129	Pakistan	Pakistan	PROPN	_	_	_	_	_	SpaceAfter=No
+130	.	.	PUNCT	_	_	_	_	_	_
+131	Dengan	Dengan	PROPN	_	_	_	_	_	_
+132	memuji	puji	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+133	peranan	peran	NOUN	_	Number=Sing	_	_	_	_
+134	militer	militer	NOUN	_	Number=Sing	_	_	_	_
+135	Pakistan	Pakistan	PROPN	_	_	_	_	_	_
+136	dalam	dalam/dalam/dalam	NOUN/ADJ/ADP	_	(NOUN -> Number=Sing)/(ADJ -> Degree=Pos)	_	_	_	_
+137	pembagian	bagi	NOUN	_	Number=Sing	_	_	_	_
+138	informasi	informasi	NOUN	_	Number=Sing	_	_	_	_
+139	mengenai	kena	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+140	gerilyawan	gerilyawan	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+141	,	,	PUNCT	_	_	_	_	_	_
+142	Richards	Richards	PROPN	_	_	_	_	_	_
+143	mengatakan	kata	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+144	bahwa	bahwa	SCONJ	_	_	_	_	_	_
+145	alasan	alas	NOUN	_	Number=Sing	_	_	_	_
+146	Taliban	Taliban	PROPN	_	_	_	_	_	_
+147	jatuh	jatuh	VERB	_	_	_	_	_	_
+148	pada	pada	ADP	_	_	_	_	_	_
+149	2006	2006	NUM	_	_	_	_	_	_
+150	adalah	adalah	AUX	_	_	_	_	_	_
+151	kerja	kerja/kerja	VERB/NOUN	_	(NOUN -> Number=Sing)	_	_	_	_
+152	sama	sama/sama	CCONJ/ADJ	_	(ADJ -> Degree=Pos)	_	_	_	_
+153	erat	erat	VERB	_	_	_	_	_	_
+154	antara	antara	ADP	_	_	_	_	_	_
+155	pasukan-pasukan	pasuk	NOUN	_	Number=Plur	_	_	_	_
+156	militer	militer	NOUN	_	Number=Sing	_	_	_	_
+157	dan	dan	CCONJ	_	_	_	_	_	_
+158	kepolisian	polisi	NOUN	_	Number=Sing	_	_	_	_
+159	di	di	ADP	_	_	_	_	_	_
+160	kedua	kedua	X	_	Foreign=Yes	_	_	_	_
+161	sisi	sisi/sisi	NOUN/VERB	_	(NOUN -> Number=Sing)	_	_	_	_
+162	perbatasan	batas	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+163	.	.	PUNCT	_	_	_	_	_	_
+164	"	"	PUNCT	_	_	_	_	_	SpaceAfter=No
+165	Ada	Ada	PROPN	_	_	_	_	_	_
+166	banyak	banyak/banyak	DET/ADJ	_	(ADJ -> Degree=Pos)	_	_	_	_
+167	kerja	kerja/kerja	VERB/NOUN	_	(NOUN -> Number=Sing)	_	_	_	_
+168	sama	sama/sama	CCONJ/ADJ	_	(ADJ -> Degree=Pos)	_	_	_	_
+169	setiap	setiap	X	_	Foreign=Yes	_	_	_	_
+170	hari	hari	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+171	,	,	PUNCT	_	_	_	_	_	SpaceAfter=No
+172	"	"	PUNCT	_	_	_	_	_	_
+173	kata	kata	NOUN	_	Number=Sing	_	_	_	_
+174	Richards	Richards	PROPN	_	_	_	_	_	SpaceAfter=No
+175	.	.	PUNCT	_	_	_	_	_	_
+176	Namun	Namun	PROPN	_	_	_	_	_	SpaceAfter=No
+177	,	,	PUNCT	_	_	_	_	_	_
+178	pusat	pusat/pusat	ADJ/NOUN	_	(ADJ -> Degree=Pos)/(NOUN -> Number=Sing)	_	_	_	_
+179	intelijen	intelijen	NOUN	_	Number=Sing	_	_	_	_
+180	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+181	akan	akan/akan	ADP/AUX	_	_	_	_	_	_
+182	memungkinkan	memungkinkan	X	_	Foreign=Yes	_	_	_	_
+183	para	para	DET	_	_	_	_	_	_
+184	aparat	aparat	NOUN	_	Number=Sing	_	_	_	_
+185	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	SpaceAfter=No
+186	,	,	PUNCT	_	_	_	_	_	_
+187	Pakistan	Pakistan	PROPN	_	_	_	_	_	_
+188	dan	dan	CCONJ	_	_	_	_	_	_
+189	ISAF	ISAF	PROPN	_	_	_	_	_	_
+190	bekerja	bekerja	X	_	Foreign=Yes	_	_	_	_
+191	bersama-sama	sama	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+192	secara	cara	DET	_	_	_	_	_	_
+193	lebih	lebih	ADJ	_	Degree=Pos	_	_	_	_
+194	efisien	efisien	ADJ	_	Degree=Pos	_	_	_	SpaceAfter=No
+195	.	.	PUNCT	_	_	_	_	_	_
+196	Pusat	Pusat	PROPN	_	_	_	_	_	_
+197	intelijen	intelijen	NOUN	_	Number=Sing	_	_	_	_
+198	gabungan	gabung	NOUN	_	Number=Sing	_	_	_	_
+199	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+200	akan	akan/akan	ADP/AUX	_	_	_	_	_	_
+201	mengerjakan	kerja	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+202	masalah-masalah	masalah	NOUN	_	Number=Plur	_	_	_	_
+203	operasi	operasi	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+204	,	,	PUNCT	_	_	_	_	_	_
+205	intelijen	intelijen	NOUN	_	Number=Sing	_	_	_	_
+206	dan	dan	CCONJ	_	_	_	_	_	_
+207	teknis	teknis	ADJ	_	Degree=Pos	_	_	_	SpaceAfter=No
+208	,	,	PUNCT	_	_	_	_	_	_
+209	dan	dan	CCONJ	_	_	_	_	_	_
+210	berbagi	bagi	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+211	informasi	informasi	NOUN	_	Number=Sing	_	_	_	_
+212	mengenai	kena	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+213	daerah	daerah	NOUN	_	Number=Sing	_	_	_	_
+214	perbatasan	batas	NOUN	_	Number=Sing	_	_	_	_
+215	Afghanistan-Pakistan	Afghanistan-Pakistan	PROPN	_	_	_	_	_	SpaceAfter=No
+216	.	.	PUNCT	_	_	_	_	_	_
+217	Kantor	Kantor	PROPN	_	_	_	_	_	_
+218	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+219	melibatkan	libat	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+220	enam	enam	NUM	_	NumForm=Word	_	_	_	_
+221	perwira	perwira	NOUN	_	Number=Sing	_	_	_	_
+222	penghubung	hubung	NOUN	_	Number=Sing	_	_	_	_
+223	masing-masing	masing-masing	X	_	Foreign=Yes	_	_	_	_
+224	dari	dari/dari	SCONJ/ADP	_	_	_	_	_	_
+225	Pakistan	Pakistan	PROPN	_	_	_	_	_	_
+226	dan	dan	CCONJ	_	_	_	_	_	_
+227	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	_
+228	serta	serta	CCONJ	_	_	_	_	_	_
+229	12	12	NUM	_	_	_	_	_	_
+230	anggota	anggota	NOUN	_	Number=Sing	_	_	_	_
+231	ISAF	ISAF	PROPN	_	_	_	_	_	SpaceAfter=No
+232	.	.	PUNCT	_	_	_	_	_	_
+233	Richards	Richards	PROPN	_	_	_	_	_	_
+234	juga	juga	ADV	_	_	_	_	_	_
+235	mengumumkan	umum	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+236	penempatan	tempat	NOUN	_	Number=Sing	_	_	_	_
+237	sebuah	buah	DET	_	Number=Sing|PronType=Ind	_	_	_	_
+238	brigade	brigade	X	_	Foreign=Yes	_	_	_	_
+239	baru	baru	ADJ	_	Degree=Pos	_	_	_	_
+240	pasukan	pasuk	NOUN	_	Number=Sing	_	_	_	_
+241	tempur	tempur	NOUN	_	Number=Sing	_	_	_	_
+242	dari	dari/dari	SCONJ/ADP	_	_	_	_	_	_
+243	negara-negara	negara	NOUN	_	Number=Plur	_	_	_	_
+244	ISAF	ISAF	PROPN	_	_	_	_	_	_
+245	dalam	dalam/dalam/dalam	NOUN/ADJ/ADP	_	(NOUN -> Number=Sing)/(ADJ -> Degree=Pos)	_	_	_	_
+246	waktu	waktu	NOUN	_	Number=Sing	_	_	_	_
+247	dekat	dekat	ADJ	_	Degree=Pos	_	_	_	SpaceAfter=No
+248	,	,	PUNCT	_	_	_	_	_	_
+249	namun	namun	CCONJ	_	_	_	_	_	_
+250	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
+251	tidak	tidak	PART	_	Polarity=Neg	_	_	_	_
+252	menjelaskan	jelas	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+253	secara	cara	DET	_	_	_	_	_	_
+254	terinci	rinci/inci	ADJ/VERB	_	(ADJ -> Degree=Sup)/(VERB -> Subcat=Tran|Voice=Pass)	_	_	_	_
+255	jumlah	jumlah	NOUN	_	Number=Sing	_	_	_	_
+256	pasti	pasti/pasti	ADJ/ADV	_	(ADJ -> Degree=Pos)	_	_	_	_
+257	pasukan	pasuk	NOUN	_	Number=Sing	_	_	_	_
+258	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+259	atau	atau	CCONJ	_	_	_	_	_	_
+260	negara	negara	NOUN	_	Number=Sing	_	_	_	_
+261	asal	asal	NOUN	_	Number=Sing	_	_	_	_
+262	mereka	reka/mereka	VERB/PRON	_	(VERB -> Subcat=Tran|Voice=Act)/(PRON -> Number=Plur|Person=3|PronType=Prs)	_	_	_	SpaceAfter=No
+263	.	.	PUNCT	_	_	_	_	_	_
+264	Sekitar	Sekitar	PROPN	_	_	_	_	_	_
+265	33.000	33.000	NUM	_	_	_	_	_	_
+266	prajurit	prajurit	NOUN	_	Number=Sing	_	_	_	_
+267	dari	dari/dari	SCONJ/ADP	_	_	_	_	_	_
+268	37	37	NUM	_	_	_	_	_	_
+269	negara	negara	NOUN	_	Number=Sing	_	_	_	_
+270	ISAF	ISAF	PROPN	_	_	_	_	_	_
+271	saat	saat/saat	SCONJ/NOUN	_	(NOUN -> Number=Sing)	_	_	_	_
+272	ini	ini/ini	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+273	ditempatkan	tempat	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+274	di	di	ADP	_	_	_	_	_	_
+275	Afghanistan	Afghanistan	PROPN	_	_	_	_	_	SpaceAfter=No
+276	,	,	PUNCT	_	_	_	_	_	_
+277	sementara	sementara/sementara	ADV/SCONJ	_	_	_	_	_	_
+278	8.000	8.000	NUM	_	_	_	_	_	_
+279	prajurit	prajurit	NOUN	_	Number=Sing	_	_	_	_
+280	lain	lain	ADJ	_	Degree=Pos	_	_	_	_
+281	AS	AS	PROPN	_	_	_	_	_	_
+282	bertugas	tugas	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+283	secara	cara	DET	_	_	_	_	_	_
+284	independen	independen	X	_	Foreign=Yes	_	_	_	_
+285	untuk	untuk/untuk	SCONJ/ADP	_	_	_	_	_	_
+286	memburu	buru	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+287	sisa-sisa	sisa	NOUN	_	Number=Plur	_	_	_	_
+288	Taliban	Taliban	PROPN	_	_	_	_	_	_
+289	dan	dan	CCONJ	_	_	_	_	_	_
+290	gerilyawan	gerilyawan	NOUN	_	Number=Sing	_	_	_	_
+291	Al-Qaeda	Al-Qaeda	PROPN	_	_	_	_	_	_
+292	sekutu	sekutu	NOUN	_	Number=Sing	_	_	_	_
+293	mereka	reka/mereka	VERB/PRON	_	(VERB -> Subcat=Tran|Voice=Act)/(PRON -> Number=Plur|Person=3|PronType=Prs)	_	_	_	_
+294	dalam	dalam/dalam/dalam	NOUN/ADJ/ADP	_	(NOUN -> Number=Sing)/(ADJ -> Degree=Pos)	_	_	_	_
+295	perang	perang	NOUN	_	Number=Sing	_	_	_	_
+296	melawan	lawan	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+297	teror	teror	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+298	.	.	PUNCT	_	_	_	_	_	_

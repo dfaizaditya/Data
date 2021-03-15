@@ -1,0 +1,287 @@
+# sent_id = 1
+# text = Operasi besar-besaran polisi terhadap penyelundupan imigran asing di Italia hari Rabu berhasil menangkap lebih dari 780 tersangka dan 1.300 orang lain dilaporkan ke pihak berwenang. Polisi mengatakan bahwa para tersangka itu, yang sebagian besar berasal dari Eropa Timur dan Afrika, ditangkap selama penyerbuan-penyerbuan terpadu pagi hari di Italia. Mereka dituduh bersekongkol dalam imigrasi ilegal dan memaksa puluhan wanita muda menjadi pelacur. Penyerbuan-penyerbuan dengan sandi Operasi Spartacus itu, yang namanya sesuai dengan nama budak gladiator Romawi terkenal, dipuji oleh Menteri Dalam Negeri Italia Giuliano Amato. "Penyelundupan itu dan pemaksaan wanita menjadi pelacur, khususnya anak-anak, merupakan salah satu kejahatan paling nista yang dilakukan di Italia," kata Amato. Polisi mengatakan, penangkapan-penangkapan Rabu itu dilakukan setelah penyelidikan empat bulan yang membuat mereka bisa mengetahui bagaimana penyelundup manusia beroperasi di Italia.  Sejumlah anak perempuan dibeli oleh penyelundup seharga 200 euro (260 dolar) di negara asal mereka dan kemudian dibawa ke Italia, di mana mereka dipaksa melacurkan diri. Uang yang mereka peroleh, yang rata-rata 5.000 euro per bulan, ditahan oleh para penculik mereka. Wanita-wanita yang berani melawan sering kali dipukuli dan disiksa. Polisi mengatakan, seorang anak perempuan berusia 16 tahun dipaksa melakukan hubungan seksual tanpa alat pelindung dan ditelantarkan di jalan sampai ia hamil enam bulan. "Ada kejahatan mutlak di pihak orang-orang yang mengeksploitasi," kata kepala kepolisian Francesco Gratteri kepada wartawan. Sebanyak 15 anak perempuan yang setuju bekerja sama dengan penyelidik kemudian diberi izin tinggal di negara tersebut. Polisi juga menyita 15 apartemen, empat kelab malam dan tiga tempat di mana wanita-wanita itu melayani tamu mereka.
+1	Operasi	operasi	NOUN	_	Number=Sing	_	_	_	_
+2	besar-besaran	besar-besaran	X	_	Foreign=Yes	_	_	_	_
+3	polisi	polisi	NOUN	_	Number=Sing	_	_	_	_
+4	terhadap	hadap	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+5	penyelundupan	selundup	NOUN	_	Number=Sing	_	_	_	_
+6	imigran	imigran	NOUN	_	Number=Sing	_	_	_	_
+7	asing	asing	ADJ	_	Degree=Pos	_	_	_	_
+8	di	di	ADP	_	_	_	_	_	_
+9	Italia	Italia	PROPN	_	_	_	_	_	_
+10	hari	hari	NOUN	_	Number=Sing	_	_	_	_
+11	Rabu	Rabu	PROPN	_	_	_	_	_	_
+12	berhasil	hasil	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+13	menangkap	tangkap	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+14	lebih	lebih	ADJ	_	Degree=Pos	_	_	_	_
+15	dari	dari/dari	ADP/SCONJ	_	_	_	_	_	_
+16	780	780	NUM	_	_	_	_	_	_
+17	tersangka	sangka	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+18	dan	dan	CCONJ	_	_	_	_	_	_
+19	1.300	1.300	NUM	_	_	_	_	_	_
+20	orang	orang	NOUN	_	Number=Sing	_	_	_	_
+21	lain	lain	ADJ	_	Degree=Pos	_	_	_	_
+22	dilaporkan	lapor	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+23	ke	ke	ADP	_	_	_	_	_	_
+24	pihak	pihak	NOUN	_	Number=Sing	_	_	_	_
+25	berwenang	wenang	VERB	_	Subcat=Intr|Voice=Act	_	_	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	_	_	_	_
+27	Polisi	Polisi	PROPN	_	_	_	_	_	_
+28	mengatakan	kata	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+29	bahwa	bahwa	SCONJ	_	_	_	_	_	_
+30	para	para	DET	_	_	_	_	_	_
+31	tersangka	sangka	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+32	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	_	_	_	_
+34	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+35	sebagian	sebagian	X	_	Foreign=Yes	_	_	_	_
+36	besar	besar	ADJ	_	Degree=Pos	_	_	_	_
+37	berasal	asal	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+38	dari	dari/dari	ADP/SCONJ	_	_	_	_	_	_
+39	Eropa	Eropa	PROPN	_	_	_	_	_	_
+40	Timur	Timur	PROPN	_	_	_	_	_	_
+41	dan	dan	CCONJ	_	_	_	_	_	_
+42	Afrika	Afrika	PROPN	_	_	_	_	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	_	_	_	_
+44	ditangkap	tangkap	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+45	selama	selama	X	_	Foreign=Yes	_	_	_	_
+46	penyerbuan-penyerbuan	serbu	NOUN	_	Number=Plur	_	_	_	_
+47	terpadu	padu	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+48	pagi	pagi	NOUN	_	Number=Sing	_	_	_	_
+49	hari	hari	NOUN	_	Number=Sing	_	_	_	_
+50	di	di	ADP	_	_	_	_	_	_
+51	Italia	Italia	PROPN	_	_	_	_	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	_	_	_	_
+53	Mereka	Mereka	PROPN	_	_	_	_	_	_
+54	dituduh	tuduh	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+55	bersekongkol	bersekongkol	X	_	Foreign=Yes	_	_	_	_
+56	dalam	dalam/dalam/dalam	ADJ/ADP/NOUN	_	(ADJ -> Degree=Pos)/(NOUN -> Number=Sing)	_	_	_	_
+57	imigrasi	imigrasi	NOUN	_	Number=Sing	_	_	_	_
+58	ilegal	ilegal	ADJ	_	Degree=Pos	_	_	_	_
+59	dan	dan	CCONJ	_	_	_	_	_	_
+60	memaksa	paksa	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+61	puluhan	puluh	NUM	_	NumForm=Word	_	_	_	_
+62	wanita	wanita	NOUN	_	Number=Sing	_	_	_	_
+63	muda	muda	ADJ	_	Degree=Pos	_	_	_	_
+64	menjadi	jadi	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+65	pelacur	lacur	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+66	.	.	PUNCT	_	_	_	_	_	_
+67	Penyerbuan-penyerbuan	Penyerbuan-penyerbuan	PROPN	_	_	_	_	_	_
+68	dengan	dengan	ADP	_	_	_	_	_	_
+69	sandi	sandi	VERB	_	_	_	_	_	_
+70	Operasi	Operasi	PROPN	_	_	_	_	_	_
+71	Spartacus	Spartacus	PROPN	_	_	_	_	_	_
+72	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	SpaceAfter=No
+73	,	,	PUNCT	_	_	_	_	_	_
+74	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+75-76	namanya	_	_	_	_	_	_	_	_
+75	nama	nama/nama	NOUN/NOUN	_	(NOUN -> Number=Sing)/(NOUN -> Number=Sing)	_	_	_	_
+76	nya	nya/nya	PRON/DET	_	(PRON -> Number=Sing|Person=3|Poss=Yes|PronType=Prs)	_	_	_	_
+77	sesuai	sesuai	ADJ	_	Degree=Pos	_	_	_	_
+78	dengan	dengan	ADP	_	_	_	_	_	_
+79	nama	nama	NOUN	_	Number=Sing	_	_	_	_
+80	budak	budak	NOUN	_	Number=Sing	_	_	_	_
+81	gladiator	gladiator	X	_	Foreign=Yes	_	_	_	_
+82	Romawi	Romawi	PROPN	_	_	_	_	_	_
+83	terkenal	kenal	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	SpaceAfter=No
+84	,	,	PUNCT	_	_	_	_	_	_
+85	dipuji	puji	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+86	oleh	oleh	ADP	_	_	_	_	_	_
+87	Menteri	Menteri	PROPN	_	_	_	_	_	_
+88	Dalam	Dalam	PROPN	_	_	_	_	_	_
+89	Negeri	Negeri	PROPN	_	_	_	_	_	_
+90	Italia	Italia	PROPN	_	_	_	_	_	_
+91	Giuliano	Giuliano	PROPN	_	_	_	_	_	_
+92	Amato	Amato	PROPN	_	_	_	_	_	SpaceAfter=No
+93	.	.	PUNCT	_	_	_	_	_	_
+94	"	"	PUNCT	_	_	_	_	_	SpaceAfter=No
+95	Penyelundupan	Penyelundupan	PROPN	_	_	_	_	_	_
+96	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+97	dan	dan	CCONJ	_	_	_	_	_	_
+98	pemaksaan	paksa	NOUN	_	Number=Sing	_	_	_	_
+99	wanita	wanita	NOUN	_	Number=Sing	_	_	_	_
+100	menjadi	jadi	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+101	pelacur	lacur	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+102	,	,	PUNCT	_	_	_	_	_	_
+103	khususnya	khususnya	ADV	_	_	_	_	_	_
+104	anak-anak	anak	NOUN	_	Number=Plur	_	_	_	SpaceAfter=No
+105	,	,	PUNCT	_	_	_	_	_	_
+106	merupakan	rupa	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+107	salah	salah	ADJ	_	Degree=Pos	_	_	_	_
+108	satu	satu	NUM	_	NumForm=Word	_	_	_	_
+109	kejahatan	jahat	NOUN	_	Number=Sing	_	_	_	_
+110	paling	paling/paling	ADV/VERB	_	_	_	_	_	_
+111	nista	nista	X	_	Foreign=Yes	_	_	_	_
+112	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+113	dilakukan	laku	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+114	di	di	ADP	_	_	_	_	_	_
+115	Italia	Italia	PROPN	_	_	_	_	_	SpaceAfter=No
+116	,	,	PUNCT	_	_	_	_	_	SpaceAfter=No
+117	"	"	PUNCT	_	_	_	_	_	_
+118	kata	kata	NOUN	_	Number=Sing	_	_	_	_
+119	Amato	Amato	PROPN	_	_	_	_	_	SpaceAfter=No
+120	.	.	PUNCT	_	_	_	_	_	_
+121	Polisi	Polisi	PROPN	_	_	_	_	_	_
+122	mengatakan	kata	VERB	_	Subcat=Tran|Voice=Act	_	_	_	SpaceAfter=No
+123	,	,	PUNCT	_	_	_	_	_	_
+124	penangkapan-penangkapan	tangkap	NOUN	_	Number=Plur	_	_	_	_
+125	Rabu	Rabu	PROPN	_	_	_	_	_	_
+126	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+127	dilakukan	laku	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+128	setelah	setelah	ADV	_	_	_	_	_	_
+129	penyelidikan	selidik	NOUN	_	Number=Sing	_	_	_	_
+130	empat	empat	NUM	_	NumForm=Word	_	_	_	_
+131	bulan	bulan	NOUN	_	Number=Sing	_	_	_	_
+132	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+133	membuat	buat	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+134	mereka	mereka/reka	PRON/VERB	_	(PRON -> Number=Plur|Person=3|PronType=Prs)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	_
+135	bisa	bisa/bisa	NOUN/AUX	_	(NOUN -> Number=Sing)	_	_	_	_
+136	mengetahui	mengetahui	X	_	Foreign=Yes	_	_	_	_
+137	bagaimana	bagaimana	ADV	_	_	_	_	_	_
+138	penyelundup	selundup	NOUN	_	Number=Sing	_	_	_	_
+139	manusia	manusia	NOUN	_	Number=Sing	_	_	_	_
+140	beroperasi	operasi	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+141	di	di	ADP	_	_	_	_	_	_
+142	Italia	Italia	PROPN	_	_	_	_	_	SpaceAfter=No
+143	.	.	PUNCT	_	_	_	_	_	_
+144	Sejumlah	Sejumlah	PROPN	_	_	_	_	_	_
+145	anak	anak	NOUN	_	Number=Sing	_	_	_	_
+146	perempuan	perempuan	NOUN	_	Number=Sing	_	_	_	_
+147	dibeli	beli/bel	VERB/VERB	_	(VERB -> Subcat=Tran|Voice=Pass)/(VERB -> Subcat=Tran|Voice=Pass)	_	_	_	_
+148	oleh	oleh	ADP	_	_	_	_	_	_
+149	penyelundup	selundup	NOUN	_	Number=Sing	_	_	_	_
+150	seharga	harga	DET	_	_	_	_	_	_
+151	200	200	NUM	_	_	_	_	_	_
+152	euro	euro	X	_	Foreign=Yes	_	_	_	_
+153	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+154	260	260	NUM	_	_	_	_	_	_
+155	dolar	dolar	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+156	)	)	PUNCT	_	_	_	_	_	_
+157	di	di	ADP	_	_	_	_	_	_
+158	negara	negara	NOUN	_	Number=Sing	_	_	_	_
+159	asal	asal	NOUN	_	Number=Sing	_	_	_	_
+160	mereka	mereka/reka	PRON/VERB	_	(PRON -> Number=Plur|Person=3|PronType=Prs)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	_
+161	dan	dan	CCONJ	_	_	_	_	_	_
+162	kemudian	kemudian/kemudi	ADV/NOUN	_	(NOUN -> Number=Sing)	_	_	_	_
+163	dibawa	bawa	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+164	ke	ke	ADP	_	_	_	_	_	_
+165	Italia	Italia	PROPN	_	_	_	_	_	SpaceAfter=No
+166	,	,	PUNCT	_	_	_	_	_	_
+167	di	di	ADP	_	_	_	_	_	_
+168	mana	mana	NOUN	_	Number=Sing	_	_	_	_
+169	mereka	mereka/reka	PRON/VERB	_	(PRON -> Number=Plur|Person=3|PronType=Prs)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	_
+170	dipaksa	paksa	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+171	melacurkan	lacur	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+172	diri	diri/diri	PRON/NOUN	_	(PRON -> PronType=Prs|Reflex=Yes)/(NOUN -> Number=Sing)	_	_	_	SpaceAfter=No
+173	.	.	PUNCT	_	_	_	_	_	_
+174	Uang	Uang	PROPN	_	_	_	_	_	_
+175	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+176	mereka	mereka/reka	PRON/VERB	_	(PRON -> Number=Plur|Person=3|PronType=Prs)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	_
+177	peroleh	peroleh	X	_	Foreign=Yes	_	_	_	SpaceAfter=No
+178	,	,	PUNCT	_	_	_	_	_	_
+179	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+180	rata-rata	rata	ADJ	_	Degree=Pos	_	_	_	_
+181	5.000	5.000	NUM	_	_	_	_	_	_
+182	euro	euro	X	_	Foreign=Yes	_	_	_	_
+183	per	per	ADP	_	_	_	_	_	_
+184	bulan	bulan	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+185	,	,	PUNCT	_	_	_	_	_	_
+186	ditahan	tahan	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+187	oleh	oleh	ADP	_	_	_	_	_	_
+188	para	para	DET	_	_	_	_	_	_
+189	penculik	culik	NOUN	_	Number=Sing	_	_	_	_
+190	mereka	mereka/reka	PRON/VERB	_	(PRON -> Number=Plur|Person=3|PronType=Prs)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	SpaceAfter=No
+191	.	.	PUNCT	_	_	_	_	_	_
+192	Wanita-wanita	Wanita-wanita	PROPN	_	_	_	_	_	_
+193	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+194	berani	berani/ani/berani	ADJ/VERB/VERB	_	(ADJ -> Degree=Pos)/(VERB -> Subcat=Intr|Voice=Act)	_	_	_	_
+195	melawan	lawan	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+196	sering	sering/ring/sering	ADJ/DET/ADV	_	(ADJ -> Degree=Pos)	_	_	_	_
+197	kali	kali/kali	VERB/NOUN	_	(NOUN -> Number=Sing)	_	_	_	_
+198	dipukuli	pukul	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+199	dan	dan	CCONJ	_	_	_	_	_	_
+200	disiksa	siksa	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	SpaceAfter=No
+201	.	.	PUNCT	_	_	_	_	_	_
+202	Polisi	Polisi	PROPN	_	_	_	_	_	_
+203	mengatakan	kata	VERB	_	Subcat=Tran|Voice=Act	_	_	_	SpaceAfter=No
+204	,	,	PUNCT	_	_	_	_	_	_
+205	seorang	orang	DET	_	Number=Sing|PronType=Ind	_	_	_	_
+206	anak	anak	NOUN	_	Number=Sing	_	_	_	_
+207	perempuan	perempuan	NOUN	_	Number=Sing	_	_	_	_
+208	berusia	usia	VERB	_	Subcat=Intr|Voice=Act	_	_	_	_
+209	16	16	NUM	_	_	_	_	_	_
+210	tahun	tahun	NOUN	_	Number=Sing	_	_	_	_
+211	dipaksa	paksa	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+212	melakukan	laku	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+213	hubungan	hubung	NOUN	_	Number=Sing	_	_	_	_
+214	seksual	seksual	ADJ	_	Degree=Pos	_	_	_	_
+215	tanpa	tanpa	ADP	_	_	_	_	_	_
+216	alat	alat	NOUN	_	Number=Sing	_	_	_	_
+217	pelindung	lindung	NOUN	_	Number=Sing	_	_	_	_
+218	dan	dan	CCONJ	_	_	_	_	_	_
+219	ditelantarkan	ditelantarkan	X	_	Foreign=Yes	_	_	_	_
+220	di	di	ADP	_	_	_	_	_	_
+221	jalan	jalan/jalan	NOUN/VERB	_	(NOUN -> Number=Sing)	_	_	_	_
+222	sampai	sampai/sampai/sampai	ADP/ADV/ADJ	_	(ADJ -> Degree=Pos)	_	_	_	_
+223	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	_	_	_	_
+224	hamil	hamil	NOUN	_	Number=Sing	_	_	_	_
+225	enam	enam	NUM	_	NumForm=Word	_	_	_	_
+226	bulan	bulan	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+227	.	.	PUNCT	_	_	_	_	_	_
+228	"	"	PUNCT	_	_	_	_	_	SpaceAfter=No
+229	Ada	Ada	PROPN	_	_	_	_	_	_
+230	kejahatan	jahat	NOUN	_	Number=Sing	_	_	_	_
+231	mutlak	mutlak	ADJ	_	Degree=Pos	_	_	_	_
+232	di	di	ADP	_	_	_	_	_	_
+233	pihak	pihak	NOUN	_	Number=Sing	_	_	_	_
+234	orang-orang	orang	NOUN	_	Number=Plur	_	_	_	_
+235	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+236	mengeksploitasi	eksploitasi	VERB	_	Subcat=Intr	_	_	_	SpaceAfter=No
+237	,	,	PUNCT	_	_	_	_	_	SpaceAfter=No
+238	"	"	PUNCT	_	_	_	_	_	_
+239	kata	kata	NOUN	_	Number=Sing	_	_	_	_
+240	kepala	kepala	NOUN	_	Number=Sing	_	_	_	_
+241	kepolisian	polisi	NOUN	_	Number=Sing	_	_	_	_
+242	Francesco	Francesco	PROPN	_	_	_	_	_	_
+243	Gratteri	Gratteri	PROPN	_	_	_	_	_	_
+244	kepada	kepada	ADP	_	_	_	_	_	_
+245	wartawan	wartawan	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+246	.	.	PUNCT	_	_	_	_	_	_
+247	Sebanyak	Sebanyak	PROPN	_	_	_	_	_	_
+248	15	15	NUM	_	_	_	_	_	_
+249	anak	anak	NOUN	_	Number=Sing	_	_	_	_
+250	perempuan	perempuan	NOUN	_	Number=Sing	_	_	_	_
+251	yang	yang/yang	SCONJ/PRON	_	(PRON -> PronType=Rel)	_	_	_	_
+252	setuju	setuju	VERB	_	_	_	_	_	_
+253	bekerja	bekerja	X	_	Foreign=Yes	_	_	_	_
+254	sama	sama/sama	CCONJ/ADJ	_	(ADJ -> Degree=Pos)	_	_	_	_
+255	dengan	dengan	ADP	_	_	_	_	_	_
+256	penyelidik	selidik	NOUN	_	Number=Sing	_	_	_	_
+257	kemudian	kemudian/kemudi	ADV/NOUN	_	(NOUN -> Number=Sing)	_	_	_	_
+258	diberi	beri	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	_
+259	izin	izin	NOUN	_	Number=Sing	_	_	_	_
+260	tinggal	tinggal	VERB	_	_	_	_	_	_
+261	di	di	ADP	_	_	_	_	_	_
+262	negara	negara	NOUN	_	Number=Sing	_	_	_	_
+263	tersebut	sebut	VERB	_	Subcat=Tran|Voice=Pass	_	_	_	SpaceAfter=No
+264	.	.	PUNCT	_	_	_	_	_	_
+265	Polisi	Polisi	PROPN	_	_	_	_	_	_
+266	juga	juga	ADV	_	_	_	_	_	_
+267	menyita	sita	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+268	15	15	NUM	_	_	_	_	_	_
+269	apartemen	apartemen	NOUN	_	Number=Sing	_	_	_	SpaceAfter=No
+270	,	,	PUNCT	_	_	_	_	_	_
+271	empat	empat	NUM	_	NumForm=Word	_	_	_	_
+272	kelab	kelab	X	_	Foreign=Yes	_	_	_	_
+273	malam	malam	NOUN	_	Number=Sing	_	_	_	_
+274	dan	dan	CCONJ	_	_	_	_	_	_
+275	tiga	tiga	NUM	_	NumForm=Word	_	_	_	_
+276	tempat	tempat	NOUN	_	Number=Sing	_	_	_	_
+277	di	di	ADP	_	_	_	_	_	_
+278	mana	mana	NOUN	_	Number=Sing	_	_	_	_
+279	wanita-wanita	wanita	NOUN	_	Number=Plur	_	_	_	_
+280	itu	itu/itu	PRON/DET	_	(PRON -> PronType=Dem)/(DET -> PronType=Dem)	_	_	_	_
+281	melayani	layan	VERB	_	Subcat=Tran|Voice=Act	_	_	_	_
+282	tamu	tamu	NOUN	_	Number=Sing	_	_	_	_
+283	mereka	mereka/reka	PRON/VERB	_	(PRON -> Number=Plur|Person=3|PronType=Prs)/(VERB -> Subcat=Tran|Voice=Act)	_	_	_	SpaceAfter=No
+284	.	.	PUNCT	_	_	_	_	_	_
