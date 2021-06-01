@@ -182,7 +182,7 @@
 1,kedua,O,O
 2,hari,O,O
 3,"tersebut,",O,O
-4,Galileo,O,O
+4,Galileo,O,B-PERSON
 5,salah,O,O
 6,menganggap,O,O
 7,Neptunus,O,O
@@ -195,7 +195,7 @@
 14,ini,O,O
 15,muncul,O,O
 16,sangat,O,O
-17,dekatâ€”konjungsiâ€”dengan,O,O
+17,dekatE€EkonjungsiE€Edengan,O,O
 18,Jupiter,O,O
 19,pada,O,O
 20,langit,O,O
@@ -274,7 +274,7 @@
 12,yang,O,O
 13,menyatakan,O,O
 14,bahwa,O,O
-15,Galileo,O,O
+15,Galileo,O,B-PERSON
 16,setidaknya,O,O
 17,sadar,O,O
 18,bahwa,O,O
