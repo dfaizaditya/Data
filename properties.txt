@@ -1,0 +1,14 @@
+PROP:name=jenis
+$$$
+kata ganti orang tunggal
+kata ganti orang jamak
+kata ganti orang kepemilikan
+named-entity person
+named-entity organisasi
+named-entity place
+named-entity event
+noun phrase person
+noun phrase organisation
+noun phrase place
+noun phrase event
+noun phrase other
